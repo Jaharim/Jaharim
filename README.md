@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=DDD5FC&height=170&section=header&text=Jaharim&fontColor=ffffff&fontSize=40)
 
-</br>
 <h3 align="center">
     Front-End Engineer 💻
 </h3>
@@ -59,3 +58,4 @@
     <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" />
   
 </p>
+</br>
