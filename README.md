@@ -10,8 +10,6 @@
 <br/>
 
 - 📚 I’m currently learning **Web Front-End Tech, Algorithm and CS**
-
-- 📝 I regularly write on my blog 　<a href="https://blog.naver.com/kc_seungpyo"><img alt="Naver" src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white"/></a>
 - 🔍 I am **curious** and **want to do programming that can help many people.**
 - 🔥 My motto is **a passionate developer who grows steadily.**
   <br/>
